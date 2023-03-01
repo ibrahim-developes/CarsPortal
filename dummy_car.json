@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "https://dummyimage.com/80x60/000/fff&text=Car+1",
+    "model": "Model 1",
+    "color": "Red",
+    "make": "Make 1",
+    "registrationNo": "AB1234"
+  },
+  {
+    "id": "2",
+    "image": "https://dummyimage.com/80x60/000/fff&text=Car+2",
+    "model": "Model 2",
+    "color": "Blue",
+    "make": "Make 2",
+    "registrationNo": "CD5678"
+  },
+  {
+    "id": "3",
+    "image": "https://dummyimage.com/80x60/000/fff&text=Car+3",
+    "model": "Model 3",
+    "color": "Green",
+    "make": "Make 3",
+    "registrationNo": "EF9012"
+  }
+]
